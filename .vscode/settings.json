@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/Backend": true
+    },
+    "liveServer.settings.port": 5502
+
+}
